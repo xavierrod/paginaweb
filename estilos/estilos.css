@@ -1,0 +1,26 @@
+div{
+     text-align: center;
+}
+h1{
+    text-align: center;
+   color: white;
+    background-color: black;
+}
+img {
+  width: 100%;
+    height: 300px;
+    
+}
+p{
+    text-align: justify;
+   color:black;
+}
+body{
+    
+    background-color: #ffd6fe;
+}#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 stretch;
+}
+ 
